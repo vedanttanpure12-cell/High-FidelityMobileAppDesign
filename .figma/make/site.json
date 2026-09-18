@@ -1,0 +1,10 @@
+{
+  "description": "Automora AI streamlines business operations for small business owners by automating tasks like bookings and customer management, enhancing efficiency and productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
